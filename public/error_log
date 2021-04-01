@@ -1,0 +1,12 @@
+[31-Dec-2020 04:45:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'CRYPTO_AEAD_XCHACHA20POLY1305_IETF_KEYBYTES' in /home/gulaeats/public_html/vendor/paragonie/sodium_compat/lib/constants.php:24
+Stack trace:
+#0 /home/gulaeats/public_html/vendor/paragonie/sodium_compat/lib/sodium_compat.php(825): require_once()
+#1 /home/gulaeats/public_html/vendor/paragonie/sodium_compat/autoload.php(51): require_once('/home/gulaeats/...')
+#2 /home/gulaeats/public_html/vendor/composer/autoload_real.php(69): require('/home/gulaeats/...')
+#3 /home/gulaeats/public_html/vendor/composer/autoload_real.php(59): composerRequire6dc24fae20caa22311c7f26e01e00501('3109cb1a231dcd0...', '/home/gulaeats/...')
+#4 /home/gulaeats/public_html/vendor/autoload.php(7): ComposerAutoloaderInit6dc24fae20caa22311c7f26e01e00501::getLoader()
+#5 /home/gulaeats/public_html/public/index.php(26): require('/home/gulaeats/...')
+#6 {main}
+  thrown in /home/gulaeats/public_html/vendor/paragonie/sodium_compat/lib/constants.php on line 24
+[02-Feb-2021 19:04:56 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/gulaeats/public_html/app/Http/Controllers/API/Driver/UserAPIController.php on line 69
+[02-Feb-2021 19:05:21 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/gulaeats/public_html/app/Http/Controllers/API/Driver/UserAPIController.php on line 69
