@@ -1,0 +1,20 @@
+[29-Oct-2020 12:05:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pipeline\Pipeline' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php on line 18
+[29-Oct-2020 12:05:30 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 31
+[30-Oct-2020 15:59:47 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 31
+[30-Oct-2020 16:02:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pipeline\Pipeline' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php on line 18
+[31-Oct-2020 18:12:59 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 31
+[31-Oct-2020 18:19:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pipeline\Pipeline' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php on line 18
+[01-Nov-2020 19:49:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pipeline\Pipeline' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php on line 18
+[01-Nov-2020 19:50:45 UTC] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 31

@@ -1,0 +1,4 @@
+[29-Oct-2020 12:05:21 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Pipeline' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[30-Oct-2020 16:03:10 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Pipeline' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[31-Oct-2020 18:24:46 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Pipeline' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[01-Nov-2020 19:48:55 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Pipeline' not found in /home/gulaeats/public_html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12

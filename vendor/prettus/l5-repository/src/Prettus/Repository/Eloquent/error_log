@@ -1,0 +1,4 @@
+[29-Oct-2020 12:08:31 UTC] PHP Fatal error:  Trait 'Prettus\Repository\Traits\ComparesVersionsTrait' not found in /home/gulaeats/public_html/vendor/prettus/l5-repository/src/Prettus/Repository/Eloquent/BaseRepository.php on line 34
+[30-Oct-2020 16:14:39 UTC] PHP Fatal error:  Trait 'Prettus\Repository\Traits\ComparesVersionsTrait' not found in /home/gulaeats/public_html/vendor/prettus/l5-repository/src/Prettus/Repository/Eloquent/BaseRepository.php on line 34
+[31-Oct-2020 18:21:15 UTC] PHP Fatal error:  Trait 'Prettus\Repository\Traits\ComparesVersionsTrait' not found in /home/gulaeats/public_html/vendor/prettus/l5-repository/src/Prettus/Repository/Eloquent/BaseRepository.php on line 34
+[01-Nov-2020 19:55:31 UTC] PHP Fatal error:  Trait 'Prettus\Repository\Traits\ComparesVersionsTrait' not found in /home/gulaeats/public_html/vendor/prettus/l5-repository/src/Prettus/Repository/Eloquent/BaseRepository.php on line 34
